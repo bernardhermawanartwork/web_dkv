@@ -1,0 +1,12 @@
+.side-nav .side-nav-inner .side-nav-menu>li.dropdown ul.dropdown-menu>li.active a
+{
+    color:#b30000 !important;
+}
+.side-nav .side-nav-inner .side-nav-menu>li.dropdown ul.dropdown-menu>li.active
+{
+    background-color: #8d8d8d18 !important;
+}
+.side-nav .side-nav-inner .side-nav-menu>li.dropdown ul.dropdown-menu>li:after
+{
+    border-color: #b30000 !important;
+}
