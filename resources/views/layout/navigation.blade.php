@@ -69,6 +69,8 @@
             </ul></li>
         <li><a href="../../../galeri">Galeri</a>
                </li>
+        <li><a href="../../../artikel">Artikel</a>
+            </li>
         <li><a href="https://pmb.ittelkom-pwt.ac.id">Daftar Sekarang</a></li>
     </ul>
 </nav>
